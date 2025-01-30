@@ -1,0 +1,40 @@
+newmtl material_0
+Ns 1.00
+d 1.00
+Ka 1.00 1.00 1.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+Ke 0.00 0.00 0.00
+map_Kd Тумба_textures//Белый 2.bmp
+newmtl material_1
+Ns 1.00
+d 1.00
+Ka 1.00 1.00 1.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+Ke 0.00 0.00 0.00
+map_Kd Тумба_textures//Черный 2.jpg
+newmtl material_2
+Ns 1.00
+d 1.00
+Ka 1.00 1.00 1.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+Ke 0.00 0.00 0.00
+map_Kd Тумба_textures//ДВП.jpg
+newmtl material_3
+Ns 1.00
+d 1.00
+Ka 1.00 1.00 1.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+Ke 0.00 0.00 0.00
+map_Kd Тумба_textures//ЛДСП.bmp
+newmtl material_4
+Ns 42.22
+d 1.00
+Ka 0.51 0.51 0.51
+Kd 1.00 1.00 1.00
+Ks 0.80 0.80 0.80
+Ke 0.00 0.00 0.00
+map_Kd Тумба_textures//сталь.jpg
